@@ -1,0 +1,17 @@
+{
+    "name": "kaung199/askquestion",
+    "description": "Test Laravel Package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kaung199\\Askquestion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kaunghtetzaw",
+            "email": "kaunghtetzaw.khz9@gmail.com"
+        }
+    ],
+    "require": {}
+}
